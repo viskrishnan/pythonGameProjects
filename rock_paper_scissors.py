@@ -34,4 +34,4 @@ while True:
 
 print(f"You won {user_wins} times")
 print(f"computer wins {computer_wins} times")
-print("See ya !! ")
+print("Good bye!! ")
